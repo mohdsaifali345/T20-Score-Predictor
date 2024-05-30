@@ -1,5 +1,5 @@
 xgboost==2.0.3
 
-streamlit
+streamlit==1.2.2
 
-sklearn
+scikit-learn
