@@ -1,5 +1,6 @@
 xgboost==2.0.3
-streamlit
-scikit-learn==1.5.1
+streamlit 
+pip uninstall scikit-learn
+pip install scikit-learn
 numpy 
 pandas
