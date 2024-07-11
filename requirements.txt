@@ -1,4 +1,4 @@
-xgboost==2.1.0
+xgboost==2.0.3
 streamlit
 scikit-learn==1.2.2
 numpy 
